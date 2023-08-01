@@ -1,6 +1,6 @@
 I am a UTSA student currently majoring in Finance.
 
-:hammer_and_wrench: Financial Skills
+🤑: Financial Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="bash" width="40" height="40"/>&nbsp;
 </div>
